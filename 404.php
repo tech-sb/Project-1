@@ -14,4 +14,6 @@
 	
 	</div>
 
+MADE A CHANGE
+
 <?php get_footer(); ?>
